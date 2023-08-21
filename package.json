@@ -1,6 +1,5 @@
 {
-  "name": "miranjingjing.github.io",
-  "homepage": "https://miranjingjing.github.io/miranjingjing.github.io",
+  "name": "personal-website",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
